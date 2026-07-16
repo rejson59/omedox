@@ -1,4 +1,3 @@
-// --- KONFIGURACJA SUPABASE ---
 // Zastąp poniższe dane swoimi z panelu Supabase (Settings -> API)
 const SUPABASE_URL = 'https://gyzfqhvduxsmwauxuvjp.supabase.co';
 const SUPABASE_ANON_KEY = 'sb_publishable_k1QAtDopGpDozPPI2MccIA_NIl5hGQj';
